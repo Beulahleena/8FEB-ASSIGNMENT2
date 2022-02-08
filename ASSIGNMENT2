@@ -1,0 +1,7 @@
+a= 2715 #kilometers
+b=1000 #as 1km = 1000cm,i assigned b value as 1000
+c= a*b #multipliying both the values as (Nkm*1000=Ncm)
+print(c)
+
+OUTPUT:
+2715000
